@@ -1,0 +1,15 @@
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+posts = [
+    {"id": 1, "title": "Hello", "content": "First post"},
+    {"id": 2, "title": "Python", "content": "Learning Flask"}
+]
+
+@app.route('/posts')
+def get_posts():
+    return jsonify(posts)
+
+if __name__ == "__main__":
+    app.run(debug=True)
