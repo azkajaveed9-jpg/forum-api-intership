@@ -1,0 +1,121 @@
+text,actual_sentiment,predicted_sentiment,confidence
+"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,positive,0.9112
+"Horrible product, broke in just one single day.",negative,negative,0.87
+Fair experience. Neither great nor too bad.,neutral,neutral,0.9016
+"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,positive,0.789
+Defective item delivered. Returning it immediately.,negative,negative,0.8973
+Decent product for this price range.,neutral,neutral,0.8071
+  TOP NOTCH BUILD QUALITY! EXCEEDED MY EXPECTATIONS. !!! ,positive,positive,0.8861
+  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,negative,0.933
+  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,neutral,0.9016
+"Fantastic user experience, smooth performance overall.",positive,positive,0.789
+"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,negative,0.9515
+"  IT WORKS FINE, BUT COULD BE IMPROVED SLIGHTLY. !!! ",neutral,neutral,0.9034
+Amazing results! Will definitely purchase again.,positive,positive,0.8846
+Poor quality materials. Do not buy this product!,negative,negative,0.933
+Average performance. Nothing special to mention.,neutral,neutral,0.9124
+  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,positive,0.8846
+"Terrible customer support, complete waste of money.",negative,negative,0.9515
+  AVERAGE PERFORMANCE. NOTHING SPECIAL TO MENTION. !!! ,neutral,neutral,0.9124
+"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,positive,0.9112
+Poor quality materials. Do not buy this product!,negative,negative,0.933
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,positive,0.8846
+"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,negative,0.9515
+"It works fine, but could be improved slightly.",neutral,neutral,0.9034
+Highly recommended! Worth every single penny.,positive,positive,0.9197
+"Unsatisfactory experience, totally useless product.",negative,negative,0.7545
+"  ACCEPTABLE PRODUCT, MEETS MINIMAL BASIC NEEDS. !!! ",neutral,neutral,0.7604
+"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,positive,0.789
+  EXTREMELY SLOW AND BUGGY EXPERIENCE. VERY FRUSTRATING. !!! ,negative,negative,0.7433
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+This product is absolute quality! Loved it completely.,positive,positive,0.6625
+"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,negative,0.9515
+Average performance. Nothing special to mention.,neutral,neutral,0.9124
+Superb performance and outstanding design.,positive,positive,0.8729
+"  UNSATISFACTORY EXPERIENCE, TOTALLY USELESS PRODUCT. !!! ",negative,negative,0.7545
+"  IT WORKS FINE, BUT COULD BE IMPROVED SLIGHTLY. !!! ",neutral,neutral,0.9034
+  THIS PRODUCT IS ABSOLUTE QUALITY! LOVED IT COMPLETELY. !!! ,positive,positive,0.6625
+  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,negative,0.8973
+"  ACCEPTABLE PRODUCT, MEETS MINIMAL BASIC NEEDS. !!! ",neutral,neutral,0.7604
+This product is absolute quality! Loved it completely.,positive,positive,0.6625
+Extremely slow and buggy experience. Very frustrating.,negative,negative,0.7433
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+Top notch build quality! Exceeded my expectations.,positive,positive,0.8861
+"Horrible product, broke in just one single day.",negative,negative,0.87
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,positive,0.789
+"Horrible product, broke in just one single day.",negative,negative,0.87
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+Highly recommended! Worth every single penny.,positive,positive,0.9197
+  WORST SERVICE EVER. VERY DISAPPOINTED AND ANGRY. !!! ,negative,negative,0.7836
+Fair experience. Neither great nor too bad.,neutral,neutral,0.9016
+  SUPERB PERFORMANCE AND OUTSTANDING DESIGN. !!! ,positive,positive,0.8729
+  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,negative,0.933
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,positive,0.8846
+"  UNSATISFACTORY EXPERIENCE, TOTALLY USELESS PRODUCT. !!! ",negative,negative,0.7545
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+  HIGHLY RECOMMENDED! WORTH EVERY SINGLE PENNY. !!! ,positive,positive,0.9197
+Worst service ever. Very disappointed and angry.,negative,negative,0.7836
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,positive,0.789
+  EXTREMELY SLOW AND BUGGY EXPERIENCE. VERY FRUSTRATING. !!! ,negative,negative,0.7433
+Average performance. Nothing special to mention.,neutral,neutral,0.9124
+  TOP NOTCH BUILD QUALITY! EXCEEDED MY EXPECTATIONS. !!! ,positive,positive,0.8861
+"  HORRIBLE PRODUCT, BROKE IN JUST ONE SINGLE DAY. !!! ",negative,negative,0.87
+Average performance. Nothing special to mention.,neutral,neutral,0.9124
+Top notch build quality! Exceeded my expectations.,positive,positive,0.8861
+  WORST SERVICE EVER. VERY DISAPPOINTED AND ANGRY. !!! ,negative,negative,0.7836
+"It works fine, but could be improved slightly.",neutral,neutral,0.9034
+This product is absolute quality! Loved it completely.,positive,positive,0.6625
+"Terrible customer support, complete waste of money.",negative,negative,0.9515
+Standard delivery speed. Product is reasonable.,neutral,neutral,0.6651
+Highly recommended! Worth every single penny.,positive,positive,0.9197
+Poor quality materials. Do not buy this product!,negative,negative,0.933
+  AVERAGE PERFORMANCE. NOTHING SPECIAL TO MENTION. !!! ,neutral,neutral,0.9124
+Top notch build quality! Exceeded my expectations.,positive,positive,0.8861
+  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,negative,0.933
+Decent product for this price range.,neutral,neutral,0.8071
+Highly recommended! Worth every single penny.,positive,positive,0.9197
+"Terrible customer support, complete waste of money.",negative,negative,0.9515
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+Superb performance and outstanding design.,positive,positive,0.8729
+  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,negative,0.8973
+  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,neutral,0.9016
+"Great support, excellent features, and super fast delivery!",positive,positive,0.9112
+"Unsatisfactory experience, totally useless product.",negative,negative,0.7545
+"Acceptable product, meets minimal basic needs.",neutral,neutral,0.7604
+"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,positive,0.789
+  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,negative,0.933
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+This product is absolute quality! Loved it completely.,positive,positive,0.6625
+Poor quality materials. Do not buy this product!,negative,negative,0.933
+"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,neutral,0.9357
+  SUPERB PERFORMANCE AND OUTSTANDING DESIGN. !!! ,positive,positive,0.8729
+  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,negative,0.8973
+  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,neutral,0.9016
+Amazing results! Will definitely purchase again.,positive,positive,0.8846
+"Horrible product, broke in just one single day.",negative,negative,0.87
+"It works fine, but could be improved slightly.",neutral,neutral,0.9034
+Superb performance and outstanding design.,positive,positive,0.8729
+Defective item delivered. Returning it immediately.,negative,negative,0.8973
+  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,neutral,0.9016
+"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,positive,0.9112
+"Terrible customer support, complete waste of money.",negative,negative,0.9515
+  DECENT PRODUCT FOR THIS PRICE RANGE. !!! ,neutral,neutral,0.8071
+  HIGHLY RECOMMENDED! WORTH EVERY SINGLE PENNY. !!! ,positive,positive,0.9197
+  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,negative,0.8973
+  DECENT PRODUCT FOR THIS PRICE RANGE. !!! ,neutral,neutral,0.8071
+"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,positive,0.9112
+  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,negative,0.8973
+Standard delivery speed. Product is reasonable.,neutral,neutral,0.6651
+"Great support, excellent features, and super fast delivery!",positive,positive,0.9112
+"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,negative,0.9515
+"It is okay, normal experience overall.",neutral,neutral,0.9357
+"Great support, excellent features, and super fast delivery!",positive,positive,0.9112
+"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,negative,0.9515
+Decent product for this price range.,neutral,neutral,0.8071
+Highly recommended! Worth every single penny.,positive,positive,0.9197
+Poor quality materials. Do not buy this product!,negative,negative,0.933
+Average performance. Nothing special to mention.,neutral,neutral,0.9124

@@ -1,0 +1,121 @@
+review_id,text,sentiment,cleaned_text
+1001,"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,great support excellent features and super fast delivery
+1002,"Horrible product, broke in just one single day.",negative,horrible product broke in just one single day
+1003,Fair experience. Neither great nor too bad.,neutral,fair experience neither great nor too bad
+1004,"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,fantastic user experience smooth performance overall
+1005,Defective item delivered. Returning it immediately.,negative,defective item delivered returning it immediately
+1006,Decent product for this price range.,neutral,decent product for this price range
+1007,  TOP NOTCH BUILD QUALITY! EXCEEDED MY EXPECTATIONS. !!! ,positive,top notch build quality exceeded my expectations
+1008,  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,poor quality materials do not buy this product
+1009,  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,fair experience neither great nor too bad
+1010,"Fantastic user experience, smooth performance overall.",positive,fantastic user experience smooth performance overall
+1011,"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,terrible customer support complete waste of money
+1012,"  IT WORKS FINE, BUT COULD BE IMPROVED SLIGHTLY. !!! ",neutral,it works fine but could be improved slightly
+1013,Amazing results! Will definitely purchase again.,positive,amazing results will definitely purchase again
+1014,Poor quality materials. Do not buy this product!,negative,poor quality materials do not buy this product
+1015,Average performance. Nothing special to mention.,neutral,average performance nothing special to mention
+1016,  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,amazing results will definitely purchase again
+1017,"Terrible customer support, complete waste of money.",negative,terrible customer support complete waste of money
+1018,  AVERAGE PERFORMANCE. NOTHING SPECIAL TO MENTION. !!! ,neutral,average performance nothing special to mention
+1019,"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,great support excellent features and super fast delivery
+1020,Poor quality materials. Do not buy this product!,negative,poor quality materials do not buy this product
+1021,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1022,  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,amazing results will definitely purchase again
+1023,"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,terrible customer support complete waste of money
+1024,"It works fine, but could be improved slightly.",neutral,it works fine but could be improved slightly
+1025,Highly recommended! Worth every single penny.,positive,highly recommended worth every single penny
+1026,"Unsatisfactory experience, totally useless product.",negative,unsatisfactory experience totally useless product
+1027,"  ACCEPTABLE PRODUCT, MEETS MINIMAL BASIC NEEDS. !!! ",neutral,acceptable product meets minimal basic needs
+1028,"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,fantastic user experience smooth performance overall
+1029,  EXTREMELY SLOW AND BUGGY EXPERIENCE. VERY FRUSTRATING. !!! ,negative,extremely slow and buggy experience very frustrating
+1030,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1031,This product is absolute quality! Loved it completely.,positive,this product is absolute quality loved it completely
+1032,"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,terrible customer support complete waste of money
+1033,Average performance. Nothing special to mention.,neutral,average performance nothing special to mention
+1034,Superb performance and outstanding design.,positive,superb performance and outstanding design
+1035,"  UNSATISFACTORY EXPERIENCE, TOTALLY USELESS PRODUCT. !!! ",negative,unsatisfactory experience totally useless product
+1036,"  IT WORKS FINE, BUT COULD BE IMPROVED SLIGHTLY. !!! ",neutral,it works fine but could be improved slightly
+1037,  THIS PRODUCT IS ABSOLUTE QUALITY! LOVED IT COMPLETELY. !!! ,positive,this product is absolute quality loved it completely
+1038,  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,defective item delivered returning it immediately
+1039,"  ACCEPTABLE PRODUCT, MEETS MINIMAL BASIC NEEDS. !!! ",neutral,acceptable product meets minimal basic needs
+1040,This product is absolute quality! Loved it completely.,positive,this product is absolute quality loved it completely
+1041,Extremely slow and buggy experience. Very frustrating.,negative,extremely slow and buggy experience very frustrating
+1042,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1043,Top notch build quality! Exceeded my expectations.,positive,top notch build quality exceeded my expectations
+1044,"Horrible product, broke in just one single day.",negative,horrible product broke in just one single day
+1045,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1046,"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,fantastic user experience smooth performance overall
+1047,"Horrible product, broke in just one single day.",negative,horrible product broke in just one single day
+1048,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1049,Highly recommended! Worth every single penny.,positive,highly recommended worth every single penny
+1050,  WORST SERVICE EVER. VERY DISAPPOINTED AND ANGRY. !!! ,negative,worst service ever very disappointed and angry
+1051,Fair experience. Neither great nor too bad.,neutral,fair experience neither great nor too bad
+1052,  SUPERB PERFORMANCE AND OUTSTANDING DESIGN. !!! ,positive,superb performance and outstanding design
+1053,  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,poor quality materials do not buy this product
+1054,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1055,  AMAZING RESULTS! WILL DEFINITELY PURCHASE AGAIN. !!! ,positive,amazing results will definitely purchase again
+1056,"  UNSATISFACTORY EXPERIENCE, TOTALLY USELESS PRODUCT. !!! ",negative,unsatisfactory experience totally useless product
+1057,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1058,  HIGHLY RECOMMENDED! WORTH EVERY SINGLE PENNY. !!! ,positive,highly recommended worth every single penny
+1059,Worst service ever. Very disappointed and angry.,negative,worst service ever very disappointed and angry
+1060,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1061,"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,fantastic user experience smooth performance overall
+1062,  EXTREMELY SLOW AND BUGGY EXPERIENCE. VERY FRUSTRATING. !!! ,negative,extremely slow and buggy experience very frustrating
+1063,Average performance. Nothing special to mention.,neutral,average performance nothing special to mention
+1064,  TOP NOTCH BUILD QUALITY! EXCEEDED MY EXPECTATIONS. !!! ,positive,top notch build quality exceeded my expectations
+1065,"  HORRIBLE PRODUCT, BROKE IN JUST ONE SINGLE DAY. !!! ",negative,horrible product broke in just one single day
+1066,Average performance. Nothing special to mention.,neutral,average performance nothing special to mention
+1067,Top notch build quality! Exceeded my expectations.,positive,top notch build quality exceeded my expectations
+1068,  WORST SERVICE EVER. VERY DISAPPOINTED AND ANGRY. !!! ,negative,worst service ever very disappointed and angry
+1069,"It works fine, but could be improved slightly.",neutral,it works fine but could be improved slightly
+1070,This product is absolute quality! Loved it completely.,positive,this product is absolute quality loved it completely
+1071,"Terrible customer support, complete waste of money.",negative,terrible customer support complete waste of money
+1072,Standard delivery speed. Product is reasonable.,neutral,standard delivery speed product is reasonable
+1073,Highly recommended! Worth every single penny.,positive,highly recommended worth every single penny
+1074,Poor quality materials. Do not buy this product!,negative,poor quality materials do not buy this product
+1075,  AVERAGE PERFORMANCE. NOTHING SPECIAL TO MENTION. !!! ,neutral,average performance nothing special to mention
+1076,Top notch build quality! Exceeded my expectations.,positive,top notch build quality exceeded my expectations
+1077,  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,poor quality materials do not buy this product
+1078,Decent product for this price range.,neutral,decent product for this price range
+1079,Highly recommended! Worth every single penny.,positive,highly recommended worth every single penny
+1080,"Terrible customer support, complete waste of money.",negative,terrible customer support complete waste of money
+1081,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1082,Superb performance and outstanding design.,positive,superb performance and outstanding design
+1083,  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,defective item delivered returning it immediately
+1084,  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,fair experience neither great nor too bad
+1085,"Great support, excellent features, and super fast delivery!",positive,great support excellent features and super fast delivery
+1086,"Unsatisfactory experience, totally useless product.",negative,unsatisfactory experience totally useless product
+1087,"Acceptable product, meets minimal basic needs.",neutral,acceptable product meets minimal basic needs
+1088,"  FANTASTIC USER EXPERIENCE, SMOOTH PERFORMANCE OVERALL. !!! ",positive,fantastic user experience smooth performance overall
+1089,  POOR QUALITY MATERIALS. DO NOT BUY THIS PRODUCT! !!! ,negative,poor quality materials do not buy this product
+1090,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1091,This product is absolute quality! Loved it completely.,positive,this product is absolute quality loved it completely
+1092,Poor quality materials. Do not buy this product!,negative,poor quality materials do not buy this product
+1093,"  IT IS OKAY, NORMAL EXPERIENCE OVERALL. !!! ",neutral,it is okay normal experience overall
+1094,  SUPERB PERFORMANCE AND OUTSTANDING DESIGN. !!! ,positive,superb performance and outstanding design
+1095,  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,defective item delivered returning it immediately
+1096,  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,fair experience neither great nor too bad
+1097,Amazing results! Will definitely purchase again.,positive,amazing results will definitely purchase again
+1098,"Horrible product, broke in just one single day.",negative,horrible product broke in just one single day
+1099,"It works fine, but could be improved slightly.",neutral,it works fine but could be improved slightly
+1100,Superb performance and outstanding design.,positive,superb performance and outstanding design
+1101,Defective item delivered. Returning it immediately.,negative,defective item delivered returning it immediately
+1102,  FAIR EXPERIENCE. NEITHER GREAT NOR TOO BAD. !!! ,neutral,fair experience neither great nor too bad
+1103,"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,great support excellent features and super fast delivery
+1104,"Terrible customer support, complete waste of money.",negative,terrible customer support complete waste of money
+1105,  DECENT PRODUCT FOR THIS PRICE RANGE. !!! ,neutral,decent product for this price range
+1106,  HIGHLY RECOMMENDED! WORTH EVERY SINGLE PENNY. !!! ,positive,highly recommended worth every single penny
+1107,  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,defective item delivered returning it immediately
+1108,  DECENT PRODUCT FOR THIS PRICE RANGE. !!! ,neutral,decent product for this price range
+1109,"  GREAT SUPPORT, EXCELLENT FEATURES, AND SUPER FAST DELIVERY! !!! ",positive,great support excellent features and super fast delivery
+1110,  DEFECTIVE ITEM DELIVERED. RETURNING IT IMMEDIATELY. !!! ,negative,defective item delivered returning it immediately
+1111,Standard delivery speed. Product is reasonable.,neutral,standard delivery speed product is reasonable
+1112,"Great support, excellent features, and super fast delivery!",positive,great support excellent features and super fast delivery
+1113,"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,terrible customer support complete waste of money
+1114,"It is okay, normal experience overall.",neutral,it is okay normal experience overall
+1115,"Great support, excellent features, and super fast delivery!",positive,great support excellent features and super fast delivery
+1116,"  TERRIBLE CUSTOMER SUPPORT, COMPLETE WASTE OF MONEY. !!! ",negative,terrible customer support complete waste of money
+1117,Decent product for this price range.,neutral,decent product for this price range
+1118,Highly recommended! Worth every single penny.,positive,highly recommended worth every single penny
+1119,Poor quality materials. Do not buy this product!,negative,poor quality materials do not buy this product
+1120,Average performance. Nothing special to mention.,neutral,average performance nothing special to mention
